@@ -18,8 +18,8 @@ Hangman is a classic word-guessing game where players try to guess a hidden word
 - npm (Node package manager) or yarn
 ## Screenshots
 
-![Screenshot 1](/assets/Images/output1.png)
-![Screenshot 1](/assets/Images/output1.png)
+![Output UI](/assets/Images/output1.png)
+![Output UI](/assets/Images/output1.png)
 
 
 ## Installation
