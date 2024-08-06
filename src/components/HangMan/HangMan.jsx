@@ -1,11 +1,11 @@
-import Level1 from '../../assets/Images/1.svg';
-import Level2 from '../../assets/Images/2.svg';
-import Level3 from '../../assets/Images/3.svg';
-import Level4 from '../../assets/Images/4.svg';
-import Level5 from '../../assets/Images/5.svg';
-import Level6 from '../../assets/Images/6.svg';
-import Level7 from '../../assets/Images/7.svg';
-import Level8 from '../../assets/Images/8.svg';
+import Level1 from '../../assets/Images/1.jpg';
+import Level2 from '../../assets/Images/2.jpg';
+import Level3 from '../../assets/Images/3.jpg';
+import Level4 from '../../assets/Images/4.jpg';
+import Level5 from '../../assets/Images/5.jpg';
+import Level6 from '../../assets/Images/6.jpg';
+import Level7 from '../../assets/Images/7.jpg';
+import Level8 from '../../assets/Images/8.jpg';
 
 // eslint-disable-next-line react/prop-types
 function HangMam({step}){
